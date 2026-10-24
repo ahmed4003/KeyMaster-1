@@ -37,13 +37,6 @@ cd keymaster-plus-one
 # افتح الملف مباشرة في المتصفح
 open index.html        # macOS  |  xdg-open index.html (Linux)  |  start index.html (Windows)
 ```
-
-### النشر على GitHub Pages
-
-1. ارفع المستودع إلى GitHub.
-2. من **Settings ← Pages** اختر `Deploy from a branch` ثم الفرع `main` والمجلد `/ (root)`.
-3. سيصبح التطبيق متاحاً على: `https://<username>.github.io/keymaster-plus-one/`
-
 ## 🧩 كيف يعمل التصحيح؟
 
 المحرك **محلي بالكامل** (لا يرسل نصك لأي خادم) ويعتمد على قواعد وقاموس مدمج:
